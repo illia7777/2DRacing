@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|c:\\users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\car\\react\\replusionreact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car\\react\\replusionreact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\spawnobject\\carmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnobject\\carmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\car\\smokewheels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car\\smokewheels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\gamespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\spawnobject\\carspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnobject\\carspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\spawnobject\\coinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnobject\\coinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\coinmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\car\\react\\ireactplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car\\react\\ireactplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\car\\wheelrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car\\wheelrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08894C56-A619-BC93-A998-F009F04C267D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\BackGround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BackGround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Car\\Car.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car\\Car.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Car\\Car.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car\\Car.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwDQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:10:33.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReplusionReact.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Car\\React\\ReplusionReact.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car\\React\\ReplusionReact.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Car\\React\\ReplusionReact.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car\\React\\ReplusionReact.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:18:03.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReactPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Car\\React\\IReactPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car\\React\\IReactPlayer.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Car\\React\\IReactPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car\\React\\IReactPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:08:14.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\UI\\GameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameUI.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\UI\\GameUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:28:52.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoinMove.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\CoinMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinMove.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\CoinMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:47:36.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoinSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\SpawnObject\\CoinSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnObject\\CoinSpawner.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\SpawnObject\\CoinSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnObject\\CoinSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:12:24.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\SpawnObject\\CarSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnObject\\CarSpawner.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\SpawnObject\\CarSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnObject\\CarSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:32:31.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\GameSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSpawner.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\GameSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:55:52.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarMove.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\SpawnObject\\CarMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnObject\\CarMove.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\SpawnObject\\CarMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnObject\\CarMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:49:41.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmokeWheels.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Car\\SmokeWheels.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car\\SmokeWheels.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Car\\SmokeWheels.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car\\SmokeWheels.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:18:39.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WheelRotate.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Car\\WheelRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car\\WheelRotate.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Car\\WheelRotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car\\WheelRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:13:44.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Grass.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Grass.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Grass.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Grass.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:28:36.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Road.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Road.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Road.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\Road.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Road.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:08:57.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BackGround.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\BackGround.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackGround.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\BackGround.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackGround.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:40:09.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\iliam\\\u0433\u043E\u043D\u043A\u0430 2\u0434\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:55:10.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
